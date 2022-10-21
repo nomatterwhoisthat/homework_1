@@ -1,0 +1,4 @@
+#include <iostream>
+int main(){
+int n;
+std::cout<<Enter n
